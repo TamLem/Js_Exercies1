@@ -35,4 +35,4 @@ document.body.appendChild(text2); //shortcut to output text
 //end of section 
 
 
-document.write(`I am ${fullName}`) //embed a varaible into a string 
+document.write(`<br> <br> I am ${fullName}`) //embed a varaible into a string 
